@@ -1,8 +1,0 @@
-{
-  "name": "@bg-dev/nuxt-auth",
-  "version": "2.3.4",
-  "compatibility": {
-    "nuxt": "^3.8.2"
-  },
-  "configKey": "auth"
-}
